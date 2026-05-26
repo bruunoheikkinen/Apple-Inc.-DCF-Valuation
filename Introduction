@@ -1,0 +1,7 @@
+Built an integrated 3-statement financial model and a dynamic DCF valuation for Apple Inc with scenario and sensitivity analysis. The project covers 3 years of historical 10-K data (Income Statement, Balance Sheet, Cash Flow) with revenue projections across Apple's four business segments through FY2026–2031
+
+Key highlights:
+→ Fully linked 3-statement model with a dedicated Assumptions sheet
+→ DCF model using CAPM-based WACC and Gordon Growth Model terminal value
+→ Sensitivity analysis varying WACC and terminal growth rate
+→ Executive Summary with football field valuation chart and bull/bear case
