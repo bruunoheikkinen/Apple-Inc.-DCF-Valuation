@@ -1,7 +1,4 @@
-Built an integrated 3-statement financial model and a dynamic DCF valuation for Apple Inc with scenario and sensitivity analysis. DCF includes both perpetuity method and exit multiple method. Exit multiple is based on a trading comps analysis.
-The project covers 3 years of historical 10-K data (Income Statement, Balance Sheet, Cash Flow) with revenue projections across
-Apple's four business segments through FY2026–2031.
-
+Built an integrated 3-statement financial model and a dynamic DCF valuation for Apple Inc with scenario and sensitivity analysis. DCF includes both perpetuity method and exit multiple method. Exit multiple is based on a trading comps analysis. The project covers 3 years of historical 10-K data (Income Statement, Balance Sheet, Cash Flow) with revenue projections across Apple's four business segments through FY2026–2031.
 Key highlights:
 → Fully linked 3-statement model with a dedicated Assumptions sheet
 → DCF model using CAPM-based WACC and Gordon Growth Model terminal value
