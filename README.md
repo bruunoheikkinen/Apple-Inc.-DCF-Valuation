@@ -1,6 +1,6 @@
 # Apple Inc. — 3-Statement Model & DCF Valuation
 
-An integrated 3-statement financial model and dynamic DCF valuation for Apple Inc. (AAPL), built to benchmark valuation methodology against a well-covered, liquid large-cap name.
+An integrated 3-statement financial model and dynamic DCF valuation for Apple Inc. (AAPL), built to assess the intrinsic value of Apple Inc. and evaluate whether the stock is fairly valued relative to the current market price.
 
 ## Overview
 
